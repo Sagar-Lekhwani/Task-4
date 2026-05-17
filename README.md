@@ -51,19 +51,19 @@ All 3 UI tasks were completed successfully using HTML and CSS Grid properties.
 
 ## 🟢 Easy UI
 
-![Easy UI](./preview-easy.png)
+![Easy UI](images/easy.webp)
 
 ---
 
 ## 🟡 Medium UI
 
-![Medium UI](./preview-medium.png)
+![Medium UI](images/medium.webp)
 
 ---
 
 ## 🔴 Hard UI
 
-![Hard UI](./preview-hard.png)
+![Hard UI](images/hard.webp)
 
 ---
 
